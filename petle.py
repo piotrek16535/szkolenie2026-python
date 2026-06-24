@@ -22,7 +22,7 @@ for ile, car in enumerate(cars,start=0):
     print("to: ",car)
 
 print("\n-------MOJA KOLEKJA----------")
-for marka, model in garaz.items():
+for marka, model in garaz.items ():
     print(f"Marka: {marka} | Model: {model}")
 
 print("\n-------POSIADANE MARKI----------")
